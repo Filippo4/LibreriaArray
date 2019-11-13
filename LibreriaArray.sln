@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaArray", "LibreriaArray\LibreriaArray.csproj", "{B0264790-AE54-42F6-93E4-9AAC37E3E2B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova", "Prova\Prova.csproj", "{029261C9-B441-43D3-86BB-44053BA5F133}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B0264790-AE54-42F6-93E4-9AAC37E3E2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0264790-AE54-42F6-93E4-9AAC37E3E2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0264790-AE54-42F6-93E4-9AAC37E3E2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029261C9-B441-43D3-86BB-44053BA5F133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029261C9-B441-43D3-86BB-44053BA5F133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029261C9-B441-43D3-86BB-44053BA5F133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029261C9-B441-43D3-86BB-44053BA5F133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
